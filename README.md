@@ -1,5 +1,3 @@
-# AIML 
+# the ULTIMATUM
 
-it begins today!
-
-lets get started, Hardika!
+lets get started Project-Hardika!
