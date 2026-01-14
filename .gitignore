@@ -1,9 +1,12 @@
 
 __pycache__/
 *.py[cod]
+*.pt
 venv/
+core/venv/
 .env
 node_modules/
+interface/node_modules/
 .next/
 npm-debug.log
 dist/

@@ -75,3 +75,7 @@ print("\n")
 context = torch.zeros((1, 1), dtype=torch.long, device=device)
 generated_output = decode(m.generate(context, max_new_tokens=500)[0].tolist())
 print(generated_output)
+
+
+# save model
+torch.save(m.state_dict(), 'ultimatum_model.pt')
