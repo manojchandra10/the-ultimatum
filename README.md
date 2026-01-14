@@ -8,7 +8,7 @@ An ultimatum to ChatGPT, Gemini, Claude, and everyone else.
 
 **Open source** **| Model agnostic |** **Privacy first**
 
-U believe if AI is going to shape the future, people should be able to see it, run it, and change it.
+Contribute if you believe AI is going to shape the future, people should be able to see it, run it, and change it.
 
 ## Architecture and Tech Stack
 
